@@ -16,3 +16,20 @@ https://realpython.github.io/fake-jobs/ and saves them to a CSV file.
 - beautifulsoup4
 
 ## Setup
+```
+pip install requests beautifulsoup4
+```
+
+## Usage
+```
+python job_scraper.py
+```
+
+The results are saved to `jobs.csv` with these columns:
+`title`, `company`, `location`, `url`
+
+## Technologies Used
+- Python
+- Requests
+- Beautiful Soup (bs4)
+- CSV module
