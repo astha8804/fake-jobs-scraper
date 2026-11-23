@@ -1,6 +1,6 @@
 # Fake Python Jobs Scraper
 
-Project URL: PASTE_PROJECT_URL_HERE
+Project URL:https://roadmap.sh/projects/job-listings-scraper
 
 A Python web scraper that collects job listings from
 https://realpython.github.io/fake-jobs/ and saves them to a CSV file.
